@@ -1,0 +1,11 @@
+{
+	"transition": "slide",
+	"controls": true,
+	"width": 960,
+    "height": 700,
+    "minScale": 0.5,
+    "maxScale": 8,
+    "highlightTheme": "github"
+}
+
+
